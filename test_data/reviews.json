@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Jamal Ahmed",
+        "profileImg": "https://img.freepik.com/free-photo/portrait-white-man-isolated_53876-40306.jpg?size=626&ext=jpg&ga=GA1.2.344820293.1680204310&semt=ais",
+        "rating": 4.5,
+        "reviewDescription": "Great experience! The service was top-notch, and the staff was very friendly."
+    },
+    {
+        "name": "Kamran Ahmed",
+        "profileImg": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg?size=626&ext=jpg&ga=GA1.2.344820293.1680204310&semt=ais",
+        "rating": 3.8,
+        "reviewDescription": "Decent place to visit. The food was good, but the service could be improved."
+    },
+    {
+        "name": "Mushahid Ali",
+        "profileImg": "https://img.freepik.com/free-photo/close-up-portrait-young-bearded-man-white-shirt-jacket-posing-camera-with-broad-smile-isolated-gray_171337-629.jpg?size=626&ext=jpg&ga=GA1.2.344820293.1680204310&semt=ais",
+        "rating": 5.0,
+        "reviewDescription": "Outstanding service! The staff went above and beyond to make my experience memorable."
+    },
+    {
+        "name": "Makhtubat Shiekh",
+        "profileImg": "https://img.freepik.com/free-photo/close-up-young-successful-man-smiling-camera-standing-casual-outfit-against-blue-background_1258-66609.jpg?size=626&ext=jpg&ga=GA1.2.344820293.1680204310&semt=ais",
+        "rating": 2.5,
+        "reviewDescription": "Disappointing experience. The quality of the products did not meet my expectations."
+    },
+    {
+        "name": "Fahim Mahmud",
+        "profileImg": "https://img.freepik.com/premium-photo/boss-man-looking-camera-smiling-young-businessman-banker-with-beard-photo-with-close-up-portrait_321831-5908.jpg?size=626&ext=jpg&ga=GA1.1.344820293.1680204310&semt=ais",
+        "rating": 4.2,
+        "reviewDescription": "Nice ambiance and friendly staff. The food was delicious, especially the desserts."
+    },
+    {
+        "name": "Mehedi Miraj",
+        "profileImg": "https://img.freepik.com/free-photo/portrait-handsome-young-man-with-crossed-arms_176420-15569.jpg?size=626&ext=jpg&ga=GA1.1.344820293.1680204310&semt=ais",
+        "rating": 4.7,
+        "reviewDescription": "Highly recommended! The service was excellent, and the prices were reasonable."
+    },
+    {
+        "name": "Prosanto Bonik",
+        "profileImg": "https://img.freepik.com/free-photo/smiling-caucasian-guy-with-beard-looking-happy_176420-18707.jpg?size=626&ext=jpg&ga=GA1.1.344820293.1680204310&semt=ais",
+        "rating": 3.5,
+        "reviewDescription": "Average experience. The place was crowded, and the wait time was quite long."
+    },
+    {
+        "name": "Rifat Zaman",
+        "profileImg": "https://img.freepik.com/free-photo/horizontal-portrait-smiling-happy-young-pleasant-looking-female-wears-denim-shirt-stylish-glasses-with-straight-blonde-hair-expresses-positiveness-poses_176420-13176.jpg?size=626&ext=jpg&ga=GA1.1.344820293.1680204310&semt=ais",
+        "rating": 4.9,
+        "reviewDescription": "Absolutely loved it! The atmosphere was cozy, and the staff was attentive."
+    },
+    {
+        "name": "Rahat Ahmed",
+        "profileImg": "https://img.freepik.com/free-photo/portrait-successful-man-having-stubble-posing-with-broad-smile-keeping-arms-folded_171337-1267.jpg?size=626&ext=jpg&ga=GA1.1.344820293.1680204310&semt=ais",
+        "rating": 3.0,
+        "reviewDescription": "Mixed experience. The service was good, but the food was mediocre."
+    },
+    {
+        "name": "Sagor Gonju",
+        "profileImg": "https://img.freepik.com/free-photo/portrait-expressive-young-woman_1258-48167.jpg?size=626&ext=jpg&ga=GA1.1.344820293.1680204310&semt=ais",
+        "rating": 4.6,
+        "reviewDescription": "Wonderful place to relax. The views were breathtaking, and the staff was friendly."
+    }
+]
